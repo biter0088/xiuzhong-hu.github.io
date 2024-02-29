@@ -45,6 +45,10 @@
 
         <h1>{{ site.title }}</h1>
 
+        {% if site.chinesename %}
+        <chinesename style="font-size:1.10rem;">{{ site.chinesename }}</chinesename>
+        <br>
+        {% endif %}              
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>

@@ -1,22 +1,44 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments"
+    authors: <strong>Xiuzhong Hu</strong>, Guangming Xiong, Zheng Zang, Peng Jia, Yuxuan Han, Junyi Ma* (*Corresponding authors)
+    conference_short: TIV
+    conference: IEEE Transactions on Intelligent Vehicles.
+    pdf: https://ieeexplore.ieee.org/document/10438873
+    code: https://github.com/biter0088/pc-nerf
+    # bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/pcnerf.png
+    notes: Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "A non-uniform quadtree map building method including dead-end semantics extraction"
+    authors: <strong>Xiuzhong Hu</strong>, Guangming Xiong*, Junyi Ma, Gege Cui, Quanfu Yu, Shihao Li, Zijie Zhou (*Corresponding authors)
+    conference_short: GIT
+    conference: Green Energy and Intelligent Transportation.
+    pdf: https://www.sciencedirect.com/science/article/pii/S2773153723000075
+    code: https://github.com/biter0088/Non-uniform-quadtree-map
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accept
+    image: ./assets/img/non-uniform quadtree map.jpg
+
+  - title: "A Motion Planner for Unmanned Tracked Vehicles in Multi-storey Buildings Considering the Characteristics of Vehicles"
+    authors: Guangming Xiong*, Quanfu Yu, <strong>Xiuzhong Hu</strong>, Zijie Zhou, Jiahui Xu (*Corresponding authors)
+    # conference_short: GIT
+    conference: Acta Armamentarii.
+    pdf: http://www.co-journal.com/EN/10.12382/bgxb.2021.0800
+    # code: https://github.com/biter0088/Non-uniform-quadtree-map
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accept
+    image: ./assets/img/yu.png
+
+  - title: "Semantic Segmentation Based Rain and Fog Filtering Only by LiDAR Point Clouds"
+    authors: Zhen Luo, Junyi Ma, Guangming Xiong*, <strong>Xiuzhong Hu</strong>, Zijie Zhou, Jiahui Xu (*Corresponding authors)
+    conference_short: ICUS
+    conference: 2022 IEEE International Conference on Unmanned Systems (ICUS).
+    pdf: https://ieeexplore.ieee.org/abstract/document/9986567
+    code: https://github.com/Blurryface0814/SunnyNet
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Accept
+    image: ./assets/img/luo.png
