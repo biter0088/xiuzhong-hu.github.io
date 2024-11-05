@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD candidate in [(Artificial Intelligence and Robotics Center) AIRC Lab](https://airc.sjtu.edu.cn/) at Shanghai Jiao Tong University, supervised by [Prof. Weidong Zhang](https://scholar.google.com.hk/citations?user=TkFwJLEAAAAJ&hl=zh-CN&oi=ao) and [Prof. Ruonan Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jiAlRAwAAAAJ). 
+I am a PhD candidate in [Artificial Intelligence and Robotics Center (AIRC)](https://airc.sjtu.edu.cn/) at Shanghai Jiao Tong University, supervised by [Prof. Weidong Zhang](https://scholar.google.com.hk/citations?user=TkFwJLEAAAAJ&hl=zh-CN&oi=ao) and [Prof. Ruonan Liu](https://scholar.google.com.hk/citations?hl=zh-CN&user=jiAlRAwAAAAJ). 
 <!-- And I intend to apply for the joint Ph.D. program between The University of Melbourne and Shanghai Jiao Tong University, supervised by [Prof. Ye Pu](https://scholar.google.com/citations?user=5IlwSs8AAAAJ&hl=en&oi=sra) and [Prof. Ying Tan](https://scholar.google.com/citations?user=7D5G7MEAAAAJ&hl=en).  -->
 Besides, I obtained my B.S. degree in vehicle engineering from the Beijing Institute of Technology in 2021. And I received my M.S. degree in [Intelligent Vehicle Research Center (IVRC)](https://me.bit.edu.cn/jgsz/jlgcx1/qjyjs1/index.htm) at the Beijing Institute of Technology in 2024, supervised by [Prof. Guangming Xiong](https://ieeexplore.ieee.org/author/37286205000). 
 
